@@ -2,13 +2,11 @@
 desktop.ini
 
 # Backup files
-~*.prj
-~*.sch
-~*.pcb
+~*.*
 
 # Report files
 *.mop
-*Report).txt
+*).txt
 
 # Production files
 *.gmo
@@ -20,5 +18,7 @@ desktop.ini
 *.gts
 *.gtl
 *.gto
+
+*.png
 
 *.zip
